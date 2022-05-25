@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @deepanshucs21
 - 👀 I’m interested in Computer Science Engineering (CSE)
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning Python Programming
+-  Studied C Programming In 1st Semester
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
